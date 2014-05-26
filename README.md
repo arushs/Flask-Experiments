@@ -3,7 +3,7 @@ Flask-Experiments
 
 Experimentation with Flask microframework
 
-Completing some projects found on this website
+Completing the blog found on this site
 
 http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
